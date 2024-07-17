@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "expo-template-default",
+    "name": "Expo_ReactNative",
+    "slug": "exporeactnative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aphroditeorg.exporeactnative"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.aphroditeorg.exporeactnative"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +33,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a28fcfef-1050-4ab6-9d03-d28a761238c7"
+      }
+    },
+    "owner": "aphrodite-org",
+    "updates": {
+      "url": "https://u.expo.dev/a28fcfef-1050-4ab6-9d03-d28a761238c7"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
