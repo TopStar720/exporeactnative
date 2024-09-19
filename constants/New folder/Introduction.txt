@@ -1,0 +1,280 @@
+
+==============Greetings================
+
+Hi [HRs Name]. This is Andrey Moskalenko.
+
+ It's a pleasure to meet you. Thank you so much for taking the time to interview me today for the [full stack developer] position. I'm really excited about the opportunity to discuss how my skills and experience could be a great fit for this role and your company.
+
+Please let me know if there's anything I can do to make this interview process smooth and efficient for you.
+
+=============Introduction================
+
+Let me introduce my self.
+As you probably know my name is Andrey Moskalenko.
+To give you a bit more background about myself - I'm a 34-years-old full stack developer originally from Ukraine.
+I received my Bachelor's degree in Computer Science from Petro Mohyla Black Sea National University, where I achieved a strong foundation in computer science and software engineering.
+I started out in PHP and JavaScript and after that, I worked my way up through the web development field, teaching myself common JavaScript and PHP frameworks.
+I became a front end developer at Nordhealth company.
+I was trying to learn new technologies and experience from other developers and to improve myself continuesly.
+As a result, I have achieved rich experience for front end as well as back end part in short time.
+During my work, I was trying to find out new challenge and liked to solve the technical problems.
+Eventually, after 4 years later, when the company's schedule was smoother and I was invited to as a member of Leobit team, I left my previous role and joined the next company for my growth and .
+While I worked as a full stack developer, I got more experience in various fields.
+
+
+
+So My major skills in web development are JavaScript, TypeScript and Node.js.
+I mainly use React or Next.js for front end and Node.js for back end.
+
+
+As a full stack developer, I like to over come technical challenges.
+
+
+During my work, I often work with colleagues such as UI/UX designers, front-end developers, back-end developers, devops engineers as well as full stack developers.
+
+ with JavaScript frameworks and also I have deep knowledge about PHP frameworks such as Laravel, Symfony as well as CMS and CRM frameworks like WordPress, Shopify and Magento.
+And I am using CSS-JS styles like Styled-Component CSS and Pre-processing CSS styles such as SCSS and LESS and of course Bootstrap.
+For the perfect interfaces of the front end I often add dynamic and animated effects using not only framer motion module but also Three.js and D3.js. 
+Currently I am focusing on development using Server-Side frameworks for optimizing page load time with Next.js, TypeScript and Tailwind CSS. And integrating Strapi and Shadcn UI.
+For Database, I mostly use MySQL and SQLite for relational database and MongoDB for Non relational Database as well as Postgre SQL with Apollo server.
+Also to reduce the development time and to raise the accuracy, I usually use Unit testing with Cypress or Jest and Zod for server-side validation.
+
+With this my major stack I often took part in E-commerce platform, Marketplace, Social platforms and Booking systems for the various functions and great number of users so As you know real-time notification, Ordering and payments are very important and I implemented these using API integrations like WebSocket, WebRTC, Stripe API integration.
+And also have more than 3 years experience to develop Android apps with React Native and deployed it on Google play and App Store.
+
+Talking about my techstack a bit more, as you know I also have good experience in .NET, .NET Core and Blazer frameworks and Blockchain web3 and solidity development.
+Also currently I am keening on to learn cutting-edge techniques such as Python AI/ML development.   
+So During my development, I focus on to develop scalability and security project to expand the project for the future.
+In engineering team I often work with UI/UX designers and Devops engineers so I am familiar with Figma, Illustration design platform and AWS, AWS Lambda and EC2 and Azure computing cloud service for deployment.
+As a full stack developer having experience to develop project from scratch to lauching, I understand the whole process of the project and consist the robust structure of the project.
+Also I am trying to take care of the process of the task and get the best result in time.
+For coloboration with other team members, I never be afraid of technical challenges and I really like discussion and passionate environment in team meeting for the great and fresh ideas for the promotion of the team and projects.
+And I try to share my skills and experiences as well as emotions with colleagues.
+Never stop learning new technologies and Get success with team members are important principle of my career.
+
+***********
+Nordhealth
+***********
+	
+	Talking about my experience briefly, after graduating, I began my career as a front end developer in Nordhealth company and have since accumulated over [9] years of professional experience working on a wide range of web applications.
+	At that time I focused on to develop front end position for individual clients and startup companies.
+	So In my first project, I redirected E-commerce platform using React + Bootstrap with PHP backend.
+	Here I reduced the loading time 30% by using the internal link, compressing images and lazy loading. And I implemented search engine optimization and pagenation smoothly.
+	So I provided user-friendly, pixel-perfect and fully responsive interfaces and deployed it on Azure computing cloud service. Then I developed many similar projects here and my role was often front end developer.
+
+*************
+Leobit
+***************
+
+Next-Gen Platform (React, Python, Bootstrap, StripeAPI, Google Map API  -  4 members)
+
+-------------------
+Real Estate Invest Management Platform (.net, .netcore, mssql, react, material-ui, azure, node.js)
+
+https://therealestateco.co/
+
+	Then I moved to Leobit company for my growth and my role here was full stack developer.
+	The most impressive project here was investment project.
+	In this project I contributed to direct legacy platform leveraging React Material UI.
+	After consideration about project I redirected product architecture to overcome scalability limitations and unblock their growth potential.
+	Then I leveraged robust password management feature utilizing the secure OAuth 2.0 protocol and Azure service.	Also I developed user portfolio and marketplace using React and optimized the performance by memoizing to prevent unnecessary rerendering cpu-expensive calculations and managed the huge states using Redux and contexts.	Then improved system using Server-side rendering and dynamic content generation for faster page loading.
+	
+------------------------------
+Cross-Platform Dating App
+
+	Additionally I took part in Cross platform Dating app development and worked in backend and API integration part.
+	So the first, I levereged Google login and OAuth2 for authentication and JWT for authorization.
+	The Apollo client and GraphQL was used for API integration with Firebase. 
+	And then implemented booking functionality in this project.
+	The system managed the entire reservation process including confirmation notifications and updates, ensuring that users received timely information.
+	This notification was implemented by integrating Firebase Cloud Messaging of firebase_messaging Flutter plugin for a wide range of app events.
+	So various third-party SDKs such as Firebase Analytics were integrated in this app.
+
+******************
+Unit Space
+****************
+Then my last company was Unit Space and here my responsibility was full stack developer too.
+In here, I developed E-commerce websites from the scratch with React + TypeScript + Tailwind. So the first thing what I have done was to optimize the loading speed by combining client component and server components and to enhance the effect using animation libraries like framer motion. And here in E-commerce platform, as you know the most functionality was to integrate payment gateway using Stripe api.
+And I solved real-time notification and order performance using webSocket.
+Improved SEO by using cache data and storage variable.
+
+
+And I seamlessly performed an mobile app for Android and iOS platform using React Native CLI leveraging Cypress for testing.
+Here I implemented Social Authentication, Multi-language implementation Google Map API integration and Third Party Integration. 
+
+So I have been grown up working with cross-functional team for delivering high-quality, scalable and robust projects. Here I focused on to stay cutting-edge technologies and problem solving with self-motivating.
+Yup this is the brief of my career so please let me know if you have any question.
+I am happy to provide you any additional information and material you might need from me.
+
+**********************Process what I should explain(technical)*******************************
+
+#########################
+CHALLENGES FOR BACKEND
+
+ - describe current engineering projects through from scratch to finish and explain what communication challenge that I faced and how to solve this problem.
+
+ 	When I developed a social platform I should implemented some complicated logic on my side.
+ 	So the challenge was to database complexity and real-time communication.
+ 	We constructed the database with high scalability for big data and implemented real-time communication throgh message using Websocket and WebRTC.
+
+ 	In react the most challenge is to control versions. As you know react is updated frequently from the requirements of developing technologies and so version management is a very important problem.
+ 	For example we used browser history.push or redirect methods for pagination but now they are not supported and navigation hook is using instead.
+
+ 	Another problem is to manage the states, in complex project there are so many states and maintaining them is also an important problem so I often manage them by combining contexts and redux. 
+
+ 	One of the other serious problem is to reduce loading time and optimization.
+ 	As you know react rerenders the components when the state changes. In complex projects we use many states variables and this often make a lot of rerendering and it would be a serious problem for loading time.
+ 	To prevent this we use several methods. First we use useMemo hook for memoizing and to prevent unnecessary rerendering for cpu-expensive calculations and fetching data.
+ 	Also we can move our states to closely from parents to related components.
+ 	Then lazy loading of components and usage of server component in React would be a great solution for improving the loading speed.
+
+ 	Another problem is React is weak for CSRF attack.
+ 	To prevent this vulnerability we can use validation functions so In my case I can use HTML5 validation form for client side and Zod validation and back end validation form.
+
+*********************Frequently arisig questions in HR interview****************************
+
+###########################
+
+	- why do you work for our company or tell me why we hire you?
+ 
+ A: @ As a passionate and creative developer I want to contribute my skills to innovative and progressive company.
+  I want to came out fresh ideas and want that it would be helpful for the company. Even your company is a startup company and not so huge for now, your aims to develop is a great idea I think. So this attracts me. I want to go together with the company sharing my ideas and pleasure. Of course I will divide the sadness but I will try it wont be happened.
+	Anyway as a startup company you have potential to grow fast and become famouse all of the world in a short period.
+	I am sure that is your vision.
+	At that time I can say I have contributed the growth of the company.
+	It will be proud. I am always looking for a new challenge and this could be a such opportunity I think. Sharing feelings and ideas is very important I think and this makes the team like a family.
+	And additionally my skills fit well to your requirements so I think I am very suitable for this position.
+
+	@  As a passionate and creative developer I want to contribute my skills to innovative and progressive company.
+	I have worked in several companies and always I am looking for a new challenge. And I think this is the time that I can expand it horizontally.
+	Anyway you are one of the famous companies and you have great ideas and progressive strategy.
+	And also you have great team members with high skills and work for various templates and technologies.
+	So I can learn more and get achivements.
+	Never stop learning. this is my principle.
+	I like passionate environment and I think I can discuss more details if I work with experts about our work and we can grow together. And fresh ideas often come from through this discussion.
+	And this can promote the development of the company.
+
+##########################
+- why do you think this position fit well to you ?
+ 
+ A: As a creative developer I can bring out new ideas for the development and contribute of your company. With my experience and skills I can provide the perfect results to clients and satisfy them. This can promote the development of your company with good feedback.
+ I believe that my skills and experience would be a valuable asset to your team so I think I would be the best choice for you.
+
+##############################
+ - what is your best advantage and shortage ?
+
+ A: My best advantage is that I am a great team member.
+ 	We work with other team members so collaboration is very important skill I think.
+ 	I often have a good relation with other team members.
+ 	In addition I am a passionative developer with very open-minded, self motivated and problem solving skills. In any case I try to finish the project in time and satisify the clients perfectly. Also I am eager to learn new technology and I am a quick learner.
+
+ 	My shortage is that I am shy and interviewed.
+ 	Even I work for several companies and with other team members, I am still passive and shy.
+ 	I am a little interviewed with strangers and I know this is one of my shortage.
+ 	I am trying to overcome this and I am a little better but it remains one of my shortage of my characteristics.
+
+#####################################
+ - Tell me about the challenge that you faced in your last work.(not technical)
+
+ A: Frankly speaking I faced a challenge during I work in my first company.
+ 		As soon as I entered the company the boss gives me two tasks and want me to work with team members in both projects and finish them in time.
+		They were ongoing projects.
+ 		Actually they are extremely busy for their work and I thought this is the reason that they hire me.
+ 		Even I know the techniques of those projects it was the first time for me to take part in huge project and also it was first task to work with them.
+ 		First I should recognize their workflow and understand how it works.
+ 		Of course the project manager explain briefly the purpose of the project I dont know the code.
+ 		At that time I was junior so I am not perfect to my skills.
+ 		From the first day I got the task but I cant go ahead soon.
+ 		I want to ask someone but all of them are extremly busy because of their work.
+ 		Also I am fresher in that company so I hesitate to ask.
+ 		So I tried to understand by myself and for this reason the task progress slowly.
+ 		We have a few days to meet the deadline.
+ 		Then I told my status to the manager honestly and asked to help me.
+ 		This was shame but there was no other way for me.
+ 		I thougt they could fire me, but it is more important to let them know the status and solve the problem.
+ 		Fortunately they understood my status and helped me and we solved the problems together and finally we successfully launched the projects in time.
+ 		After that the boss said that I was right and the status is more important.
+ 		From then I am trying to improve myself continuously and to become open-minded developer.
+
+
+
+++++++++++++++++++++++++++++++ What I want to ask for HR +++++++++++++++++++++++++++
+
+ - When I can hear about the next stage ?
+ - Where is your headquaters of your company ?
+ - What is the main tools for task management or version control ?
+ - How many members are there in your dev team ?
+ - 
+
+
+
+
+
+
+
+========================================CHALLENGES====================================
+
+Keeping up with the rapidly evolving frontend technology landscape:
+	"One of the biggest challenges I face as a senior frontend developer is the constant need to stay on top of the rapidly evolving technology landscape. Frameworks, libraries, and best practices are continuously changing, and it requires a significant investment of time and effort to ensure I'm up-to-date with the latest trends and tools. I've found that proactively researching new developments, attending industry events and meetups, and allocating dedicated learning time are all crucial to maintaining my technical edge and delivering modern, high-performing frontend solutions."
+
+Balancing technical debt and feature development:
+	"Another major challenge is managing the balance between addressing technical debt and delivering new features and functionality. As a senior developer, I'm often tasked with not only designing and implementing new user-facing features, but also refactoring and optimizing legacy codebase. This requires carefully prioritizing tasks, communicating tradeoffs to stakeholders, and finding creative ways to incrementally improve the codebase without disrupting the roadmap. It's a delicate balance, but one that I've developed strategies for through experience."
+
+Effective team collaboration and knowledge sharing:
+	"One of the most important aspects of my role as a senior frontend developer is collaborating with cross-functional teams and sharing my knowledge to uplift the entire team's capabilities. This involves mentoring and training junior developers, facilitating code reviews, and establishing best practices and guidelines. It requires strong communication skills, the ability to translate technical concepts into understandable terms, and a genuine passion for growing the skills of my colleagues. Fostering a culture of continuous learning and knowledge sharing is crucial for the long-term success of any frontend development team."
+
+Maintaining code quality and scalability:
+	"A key challenge for senior frontend developers is ensuring the long-term quality and scalability of the codebase. This involves implementing robust testing frameworks, adopting modular and maintainable design patterns, and making architectural decisions that account for future growth and evolving requirements. It's not enough to simply deliver a working solution - I strive to build frontend systems that are reliable, efficient, and easy to extend and update over time. This requires a deep understanding of engineering principles and a willingness to make tough decisions that prioritize the health of the codebase."
+
+===========================
+
+	Ecommerce Platform Development
+
+	1. User Authentication and Management
+		Registeration and Login
+		User Profile
+		Password reset using email and mobile
+	2. Product Catalog & Management
+		Product listing
+		Categories & Filters
+		Product reviews & Rating
+		Stock Management
+		Product recommendation
+	3. Shopping Cart & Checkout
+		Add to cart
+		Cart management
+		Guest checkout
+		Shipping options
+		payment integration(credit card, paypal, Stripe)
+		Order Summary
+		Tax Calculation
+		Coupons & Discount
+	4. Order Management
+		Order Tracking
+		Order History
+		Order Status Notification
+		Cancel & Refund Request
+	5. Payment Gateway Integration
+		Multiple Payment Methods
+	6. Shipping & Delivery
+		Real time Shipping Cost calculation
+		Delivery Estimation
+	7. Product Search & Filtering
+		Search Bar
+		Advanced Search bar
+		Recently viewed Items
+	8. Admin Dashboard & Analytics
+		Product Management
+		Inventory management
+		Order management
+		Customer management
+		Coupon & Discount Management
+	9. Mobile Responsive & Mobile App integration
+	10. Security Features
+	11. Customer Support & Communication
+	12. Marketing & SEO Tools
+		SEO Optimization
+	13. Loyalty & Rewards Programs
+		Offer VIP or preminum features for loyal customers based on purchase history
+		Loyalty Points System
+	14. Multiple Currencies and language

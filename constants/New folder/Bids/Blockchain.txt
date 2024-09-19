@@ -1,0 +1,35 @@
+I am a full stack and blockchain engineer.
+I specialize in crafting innovative solutions for Blockchain, web3, NFTs, DeFi, Solana, Ethereum, Wagmi, Smart Contracts, Solidity, Rust, and more. 
+My track record includes architecting and implementing DeFi projects such as DEX, trading platforms, bonding mechanisms, as well as creating dynamic NFT marketplaces and engaging NFT games.
+My strength is a smart contract development, leveraging Solidity and Rust for EVM-compatible chains like Ethereum and BSC, as well as for emerging ecosystems like Solana, Terra, Near, EOS, among others. 
+Additionally, I've built NFT Marketplaces using React and Express.js, ensuring seamless user experiences.
+I have very good experience in developing frontend using JavaScript and its frameworks like React and Next.js including several projects like e-commerce, financial, education, customer management, real estate, Blockchain area.
+is there any chance to work with you?
+
+
+
+
+
+👋 Dear Customers
+
+I'm a senior software engineer with professional experience in front-end, back-end, and blockchain.
+
+🤟 My motivation comes from the success of business ideas, intellectual curiosity, and the desire to contribute to technological advancement.
+
+I'm looking for a new job opportunity that stimulates my motivation.
+
+Please DM me if you're open to hire and I'll share my resume.
+
+Here're some techniques I'm very familiar with:
+
+💎 Front-end : React, Next.js, Angular, Wordpress
+                              Styled-Components, MaterialUI, TailwindCSS, Sass
+💎 Back-end  : Node.js, Express.js, PHP, Laravel, Golang, Rust, Python
+💎 Blockchain: Building a blockchain network (CosmosSDK, PolkaDot, Go-Ethereum, Hyperledger Fabric, Hyperledger Firefly)
+                               Smart Contracts (Solidity, Rust, Move, Vyper)
+                               Web3 Integration (Web3.js, ethers, wagmi, Rainbowkit, walletconnect)
+                               DEFI, NFT, DEX, CEX, DAO, MEV bots, Lending and Borrowing
+
+
+https://etherscan.io/address/0xF90c7f66eAc7E2130bF677D69a250b2136Cf6697#readContract
+https://bonenza.com/casino/

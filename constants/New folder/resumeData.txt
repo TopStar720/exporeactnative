@@ -1,0 +1,235 @@
+
+Ukraine
+
+
+Portfolio
+https://shinobi8894.onrender.com/
+https://tobi-portfolio-ten.vercel.app/
+https://aaron-guru.vercel.app/
+
+
+Resume
+https://docs.google.com/document/d/1bD6xph2hiT_SxAz41ZcX4ijGVDYGWKDb/edit
+
+
+https://github.com/starmastar1126?(React Native Git)
+
+
+Andrey Moskalenko
+University  : Black Sea National University - Street 68 Marines, 10 Mykolayiv region 54000 1996
+
+Petro Mohyla Black Sea National University;
+
+
+
+
+
+
+
+
+University :  East Ukrainian National University - founded in 1920,  large scale(10,000 - 15,000), 
+	      St, John Paul II, 17 Kyiv		01042 kiev Oblast	Ukraine
+
+
+
+
+University :  National University of Shipbuilding
+
+
+--------------------------------
+
+OPEN, 
+
+
+SMART, CARING, OPEN FLEXIBLE, EFFICIENT
+
+
+------------------------------------
+
+
+Company
+
+Unit Space - offshore software product development company in Ukraine 
+		Svobody Square, 7, Kharkiv, Kharkiv Oblast, Ukraine, 61022
+		Created in 2017 and build 200+ projects in 4 years
+
+
+Leobit(.net base company) - Lazarenka street, 1, Lviv, Lvivska Oblast, Ukraine
+		Lviv - Ukraine
+		Stryiska Street 108
+		Development Cente
+
+	.we're a passionate, professional, motivated, and welcoming team
+
+
+MISSION
+Leobit's mission is to assist companies in their journeys of technological innovation and business transformation by establishing business partnerships based on trust, transparency, and long-term collaboration. We use our solid maturity proven by ISO 27001/9001, ISTQB Gold & MS Gold Partnership, Clutch Top .Net Company Award to upstream your processes with true innovation, flexibility & creativity.
+
+----------------
+
+Chanllege
+
+Quality
+Architecture
+Performance
+Design
+Process
+Scalability
+Security
+
+
+
+
+----------------------
+
+Remote Jobs
+
+
+EvaCodes(Blockchain and Web3) 
+--Founded in 2019
+
+Blaize(Blockchain and frontend)
+--Majored in Dapp, smart contract and integration
+
+Dapplica(Blockchain, Web) - majored NFT game and market
+
+
+----------------------------
+itrate.co
+
+
+
+Brainence(Frontend .Net) - React
+Exoft(.net)
+
+bvblogic(Ecommerce, PHP major)
+
+Clever Tuna(Web and Mobile using Javascript and PHP)
+
+Clover Dynamics(Web, Python, C...)
+
+Deviark(Angular, Node, Laravel)
+Devurai(Angular, Node, Laravel)
+
+
+
+
+
+
+I'm a super ambitious professional with a vast array of knowledge in different programming languages, responsive frameworks. My focus is on clean, elegant, and efficient codes and I am able to work on new and existing micro-sites, landing pages, templates, and provide guidance and troubleshooting support to clients. I look forward to being a part of a growing company as a front-end developer where I can utilize exceptional programming and interpersonal skills acquired to contribute to your company's success.
+
+
+
+
+
+
+
+
+===================================================
+
+
+Andrey Merkuriev
+
+Address : Kirpichno-Zavodskaya Ul., bld. 2, appt. 88  Odessa, Ukraine
+					(phone - 647690	Merkuriy Vi - Real)
+
+					Zip code - 65017
+
+
+Experience
+
+	Unit Space : Front end Developer()
+			Enforced code quality across the React codebase with ESLint, resulting in a 21% reduction in code review time and improved overall codebase health Progressed and implemented React components using React Router to enhance navigation UX.
+			Innovated a project management tool using React.js, Redux, and integrating Firebase and Tailwind CSS for real-time database updates, improving project tracking and team collaboration.
+			Constructed a 3D real-time crypto data visualization dashboard using TypeScript, React.js, D3.js, and Three.js integrating WebSocket for live data updates
+
+-----------------Exprience---------------------------------------------------
+
+Front-end engineer • May 2022 - Mar 2024 
+
+SynergyTop Inc - Los Angels, US 
+
+	 Developed a GraphQL and Apollo Server for a high-performance API, integrating Apollo Client in a React.js frontend for efficient data fetching and state management, with a strong emphasis on deep learning techniques for data analysis. 
+
+	 Enhanced an existing online booking system with Angular and TypeScript by translating a Figma design into a responsive UI, incorporating NgRx, and Angular Material for a modern UI, which led to a 40% increase in user engagement. 
+
+	 Contributed to develop Ecommerce web sites and DeFi projects with Front- end using Next.js, Vue.js and WordPress and Integrated it with Web3 or Ether.js. 
+
+	 Utilizing Git for Version Control and Trello and Jira for Task management. 
+
+ 
+
+Senior front-end developer • nov 2018 - NOV 2021 
+
+Brainence – London, UK 
+
+		Forged and deployed a secure, RESTful API with Node.js and Express.js, integrating OAuth2 for authentication, JWT for authorization, and employed Swagger for dynamic documentation, focusing on web security. 
+
+		Directed the refactoring of a legacy system to a modern web application using React.js, Angular, TypeScript, and Material UI for responsive user-centric design, employing Nest.js and Next.js for SSR, improving SEO performance and load times, and incorporating load balancing and data structure optimization for telecommunications clients. 
+
+		Pioneered a cross-platform mobile app using React Native CLI and Expo, leveraging Cypress and NPM for testing and package management, increasing market reach in the gaming sector. 
+
+ 
+
+Front-end developer • OCT 2014 - oct 2018 
+
+UnitSpace – Kharkiv, UA 
+
+		Innovated a project management tool using React.js, Redux, and integrating Firebase and Tailwind CSS for real-time database updates, improving project tracking and team collaboration. 
+
+		Optimized website performance by implementing front-end best practices. 
+
+		Enforced code quality across the React codebase with ESLint, resulting in a 21% reduction in code review time and improved overall codebase health Progressed and implemented React components using React Router to enhance navigation UX. 
+
+
+=====
+
+Objective : 
+
+As a passionate and hard-working web developer, I am seeking a suitable position to challenge my web development skills to create scalable web applications for diverse businesses.
+I am a detail-oriented, analytical, and self-driven programmer with extensive experience building user-facing applications.
+I wish to drive a success with the best team members of progressive and innovative company.
+
+Objective :
+
+Creative and experienced Web Developer proficient in both front-end and back-end technologies. Eager to contribute my skills to develop innovative and efficient web solutions that meet business objectives.
+
+Objective :
+
+I am an innovative Web Developer with a passion for creating dynamic and interactive web applications. So I am seeking a challenging role to contribute my skills  to develop cutting-edge and scalable web solutions that meet client and business needs.
+
+
+			https://app.resumegiants.com/editor/resume/e3d45efd-5e76-45a4-baa0-ee9c88b6dffd
+
+
+
+
+
+
+===========================================
+
+Andrey Moskalenko
+
+
+
+https://www.linkedin.com/in/andrey-moskalenko-878b541a3/
+
+	phone: 380635251901
+
+	Address:
+		Street: Dalnitskaya 53
+		Odessa
+		Apart: 85
+
+	Zipcode: 65005
+
+
+	University: Black Sea National University - Street 68 Marines, 10 Mykolayiv region 54000 1996
+
+
+
+county Rd lorida highlands, Florida   33857
+
+
+
+https://job-boards.greenhouse.io/exodus54/jobs/4363783006#app

@@ -1,0 +1,56 @@
+
+I have read your details carefully and I believe I am well-suited for this position. As an experienced senior developer, I am confident that I can meet your requirements perfectly while also helping you save money.
+
+I possess a deep knowledge of PHP and its popular frameworks such as Laravel and CodeIgniter. Additionally, I have extensive experience in developing eCommerce and membership-based projects using platforms like WordPress and Magento.
+
+If you are interested, I would be glad to speak with you further about how I can contribute to your project and deliver the solutions you require. Please feel free to contact me at your convenience.
+==================================================
+
+https://patricianashdesigns.com/			(Magento + Wordpress)
+
+Revamping Patricia Nash Designs: A Comprehensive E-commerce Redesign, Rebuild, and Migration
+
+Patricia Nash came to Pyxl originally in 2015 needing their e-commerce shop redesigned and rebuilt on Magento, migrating away from a proprietary e-commerce platform. I implemented the new designs created by our design team, building their new e-commerce shop on Magento 1.
+
+After maintaining this project for a couple of years, the client was ready for another redesign around the time Magento 2 was replacing Magento 1. Once again I rebuilt their shop, this time on Magento 2.
+
+Both builds were integrated with WordPress to provide a more robust CMS for marketing content management. WordPress and Magento integrated so that marketing and merchandising could work together. These projects also involved multiple integrations for things like customer reviews, fulfillment, and a POS UI for their flagship store to directly make sales in Magento, keeping all inventory synchronized.
+
+
+I had the opportunity to build a new site for Patricia Nash Designs twice while at Pyxl. In 2015 we acquired them as a client and rebuilt their store in Magento 1 integrated with WordPress. Then in 2017 we had the opportunity to migrate them to Magento 2, building a new theme with all new features in the process. I was the sole developer on the Magento 1 build, building the theme as well as all feature modules. Some features included Lookbooks, Collections with a Pinterest style experience, Ajax product quick views, a custom integration with HubSpot’s API, and more. For the Magento 2 migration/rebuild I was the project architect and lead developer working with a team of developers. I primarily built custom feature modules and implemented the data migration while also coaching the other developers on how to build Magento 2 themes and modules. Some of the features I built included the new Lookbooks feature with image hotspot tagging, a mega menu builder, an improved quick view feature, the notification bar feature, a custom Gift Card CSV importer for Amasty’s Gift Card extension, and many more. Throughout the process I was able to provide a number of bug fixes and improvements to various 3rd party extensions we used through either support tickets or GitHub PR’s. In both projects we integrated with WordPress to provide a more feature-rich CMS experience. Using and extending FishPig’s integration module I completed the WP<>Magento integrations.
+
+=====================================================
+
+https://toutpourletoutou.com/		(Laravel + Vue + Bootstrap)
+
+
+I joined mid-project to take over the technical project management and eventually took over all technical responsibilities for this startup. It is a new website and web app built for connecting pet owners with pet service providers.
+
+The web app is still in progress, to be launched soon...
+
+Technologies: Laravel (PHP), Bootstrap, MySQL, Stripe, Vue.js
+
+
+
+===============================================
+
+https://buphotels.com.br/		(WordPress)
+
+
+https://friendsofthesmokies.org/		(Wordpress)
+
+The site was built in WordPress and Foundation, and uses WooCommerce for the Donations. It allows subscription donations or one-time donations as well as a dynamic pricing model allowing users to choose the amount or enter their own custom amount. As part of this project I developed a custom WordPress plugin for Pyxl that consumes Instagram’s API and provides it to theme developers in a clean, developer-friendly way. It was inspired by the oAuth Twitter Feed for Developers plugin.
+
+Stack: WordPress, WooCommerce, Foundation
+
+
+
+
+
+
+2348163260827
+
+
+Kenneth_47
+
+fullstack_dev_0

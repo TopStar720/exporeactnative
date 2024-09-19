@@ -1,0 +1,954 @@
+
+https://www.turing.com/interview-questions/senior-full-stack
+
+
+
+
+
+1.
+What is the difference between responsive and adaptive design?
+
+Hide Answer
+Responsive and adaptive design is used to create websites that work smoothly across multiple devices. Both design techniques provide a better user interface but have many differences.
+
+A responsive design technique that involves designing a website layout adjusts that can adjust to any screen size. This means the website will look and function well on any device, whether a large desktop computer or a mobile phone. Responsive design relies on fluid grids to resize and rearrange the layout based on percentage values.
+
+On the other hand, adaptive design is a design approach where a website is designed to have multiple layouts. Each layout is optimized for a specific screen size or device type. When users visit the website, it detects their device and displays the appropriate layout. Adaptive design uses fixed layout sizes for specific screen dimensions. This approach requires developers to create multiple layouts that correspond to predefined screen sizes or device capabilities.
+
+2.
+What do you mean by data attributes?
+
+Hide Answer
+A data attribute is a data field that defines the characteristics or features of a data object. It mostly exists in a table format but can also refer to special values for objects in programming languages. In a word, data attributes are simply data that describe other data.
+
+Example:
+
+what is data attribute.webp
+
+3.
+What is a web server?
+
+Hide Answer
+A web server is a computer that stores, processes, and delivers website content to browsers. When a user makes a request to the browser, it responds to the requests using HTTP and other protocols.
+
+A web server is a combination of hardware and software. The hardware allows the exchange of data to the devices that make a request, while the software controls how the user can access the stored files.
+
+4.
+What is the difference between a static and dynamic website?
+
+Hide Answer
+A static website is built using HTML, CSS, and JavaScript, and its content does not change every time you access it. When a user requests a page from the server, the server simply sends the HTML files to the user's browser, which displays the content to the user. Examples of static websites include personal blogs, brochure websites, and small business websites.
+
+On the other hand, dynamic websites are built using server-side programming languages such as Python, Java, PHP, Ruby, or others and often use databases to store and retrieve information.
+
+When a user requests a page from a dynamic website, the server runs the necessary code to generate the content for that page and sends it to the user's browser. This allows dynamic websites to display dynamic content to users. Dynamic websites include stock broker websites, social media platforms, content management systems, etc.
+
+5.
+How do you ensure code quality and maintainability in your projects?
+
+Hide Answer
+You need to follow these steps to ensure code quality and maintainability:
+
+Use consistent coding standards and style guides across the project
+Enforce strict linting and code formatting using tools like ESLint or Prettier
+Implement unit testing and integration testing with automated testing frameworks
+Use code review processes to identify and fix issues
+Utilize Continuous Integration and Continuous Deployment (CI/CD) pipelines to maintain quality throughout the development lifecycle
+Follow best practices, like SOLID principles and design patterns, for better code organization and reusability
+6.
+What are the latest full-stack development trends?
+
+Hide Answer
+Low-code and no-code development
+Artificial intelligence & machine learning
+Blockchain technology
+Progressive web application
+Augmented Reality (AR) and Virtual Reality (VR)
+7.
+How do you select the tools and technologies for a project?
+
+Hide Answer
+By asking this question, recruiters want to know what you consider before choosing the tech stacks while planning a project. Include the following points when you answer this question.
+
+Analyzing the project requirements and keeping compatibility requirements in mind.
+Choosing the languages and frameworks that can provide the best solutions.
+Research technologies used for similar projects.
+Evaluate the price for any paid tools you may need for the project and if it fits the budget.
+8.
+Why is RESTful API a popular choice in web development?
+
+Hide Answer
+RESTful API is a popular choice in web development due to its several beneficial features and design principles that enhance the efficiency and maintainability of web services. Some of these features include Stateless, Scalable and performant, Cacheable, among others.
+
+RESTful API is designed to be stateless, meaning each request sent from the client to the server must contain all necessary information for the server to process it. This prevents the server from having to maintain client state between requests, which simplifies the server's architecture and enhances scalability.
+
+The stateless nature of RESTful API allows for better load balancing, horizontal scaling, and improved performance, as servers can more easily distribute the workload without the need to coordinate client states.
+
+9.
+Can you explain the MVC design pattern?
+
+Hide Answer
+The Model-View-Controller (MVC) design pattern is a widely used software architecture pattern in web development. It helps you turn complex software development into three separate components.
+
+Model: This component represents the data and business logic of the application. It is responsible for managing the data, performing calculations, and responding to requests from the controller.
+
+View: This component is responsible for the user interface of the application. It displays the data from the model to the users and provides a platform to interact with the application.
+
+Controller: It is responsible for handling both the Model and View. It manages the flow of the application, including data flow within the Model object and updating the View whenever data is changed.
+
+10.
+Explain long polling.
+
+Hide Answer
+Long polling is a method used for getting a stable server connection without using protocols such as WebSocket or Server-Side Events. In the conventional client-server model, this method is at the top. In Node.js, the same technique is called the next development model.
+
+The functioning of this method includes the sending of requests from the client to the server, with the server responding till the connection with new and unique information opens. When the server responds, the client can submit a request to the server. The server returns a query when there is data available. The function takes place when the application of the client and the requests of the server end.
+
+11.
+Which is the popular language used by full-stack developers?
+
+Hide Answer
+Full-stack Developers need to be proficient in both frontend and backend development. So, a candidate should be well-versed in scripting languages like HTML, CSS, and JavaScript.
+
+Besides that, they need to learn at least two or three backend programming languages from C++, C#, Java, Python, Ruby, PHP, etc. However, many businesses use Node.Js for their development projects, making JavaScript one of the most popular languages.
+
+12.
+What is type coercion in JavaScript?
+
+Hide Answer
+Type coercion in JavaScript is the automatic conversion of a value from one data type to another, typically while performing a specific operation or while comparing values. JavaScript attempts to convert one or both of the operands to a compatible type in order to complete the operation.
+
+13.
+Talk about mock vs. stub.
+
+Hide Answer
+Mocks and stubs are two common methods used for unit testing. You can choose one or both, depending on the testing goals. Here is a comparison of mock vs. stub.
+
+mock vs stub.webp
+
+14.
+What are the duties of a full-stack programmer?
+
+Hide Answer
+It is a common full-stack developer interview question. The recruiters may want to check your understanding of full-stack development and the job responsibilities of full-stack developers. Begin your answer by explaining full-stack development and then discuss their responsibilities.
+
+Designing and developing the user interface (UI)
+Creating the application's server-side code
+Integrating front-end and back-end components using APIs and other integration techniques.
+Testing the web application to ensure that it meets functional and performance requirements
+Troubleshooting issues and debugging code when problems arise
+Collaborating with cross-functional team members
+Staying up-to-date with new technologies and programming languages to ensure that web applications are developed using the latest best practices.
+15.
+What are the advantages of using Python language?
+
+Hide Answer
+Python is a high-level programming language with simple syntax making it easier for newbies.
+
+The advantages of Python are:
+
+Easy implementation: Python is relatively easy to learn and write compared to other programming languages such as Java and C++.
+Extensive support libraries: It has Pandas for data analytics, NumPy for numerical calculations, etc.
+Free and open-source: Python is a free and open-source language with a large active community base.
+Dynamically typed language: We don't need to mention data type in Python; it automatically takes the data type.
+Vast libraries support: Python has rich and efficient libraries making it easier for developers.
+Interpreted language: Python is an interpreted language with line-by-line code execution, contributing to easier debugging and portability.
+Suitable for data analysis: It helps data scientists easily simplify complex numeric computing operations.
+16.
+What are the advantages of using unit testing?
+
+Hide Answer
+There are many advantages of unit tests in software development:
+
+It improves the code quality and makes the process agile.
+Refactoring code becomes easier through unit testing.
+It helps developers in creating better designs.
+Helps in finding software bugs earlier.
+Unit testing provides documentation of the system to developers working on the projects.
+Since unit testing helps remove bugs early, it helps reduce the cost of fixing bugs.
+17.
+How do you ensure data security in your applications?
+
+Hide Answer
+Data security is important to protect sensitive information, maintain trust, comply with regulations, and avoid financial losses. You can take several measures to ensure data security while developing applications.
+
+Use secure coding practices: Develop applications using secure coding practices, such as input validation, access controls, and handling errors.
+
+Encrypt data in transit and at rest: Use encryption to protect data during transmission and when stored in databases. This can help protect against data breaches and unauthorized access.
+
+Implement strong authentication: Use robust authentication techniques to ensure only authorized users can access sensitive data.
+
+Perform regular security testing: Conduct regular security testing, such as vulnerability assessments and penetration testing, to identify and address potential security risks before they can be exploited.
+
+Follow industry best practices: Following industry best practices, such as instructions provided by the organization and adherence to govt regulations to ensure that your applications are secure, efficient, and sustainable.
+
+18.
+What is the difference between unit testing and integration testing?
+
+Hide Answer
+Unit testing is a software testing method where developers test individual components or modules. This type of testing is carried out during the development stage. Unit testing aims to identify errors in the smallest unit of code and fix them early in the development process.
+
+On the contrary, integration testing involves testing multiple units or components together. The purpose of integration testing is to verify if the individual components function correctly when combined together.
+
+Learn more about the key differences between unit testing and integration testing.
+
+19.
+Can you explain the concept of microservices architecture?
+
+Hide Answer
+Microservices architecture is a design pattern that involves building an application as a collection of small, loosely coupled, independently deployable services. Each service is focused on a specific business capability and can be developed, tested, and deployed independently. This pattern improves scalability, resilience, and enables faster development cycles, but comes with added complexity in areas such as coordination, service communication, and data synchronization among microservices.
+
+20.
+What is the box model in CSS?
+
+Hide Answer
+The box model in CSS is a fundamental concept that describes how elements are displayed on a webpage. It comprises four main components: content, padding, border, and margin.
+
+The content area is the part of the element that holds the text or images. The padding is the space between the content and the border of the element. The border is the line around the padding, and the margin is the space between the border and the outside of the element.
+
+Each of these parts contributes to the total size of the element. You must keep in mind when designing and laying out a webpage.
+
+21.
+What is lazy loading in angular?
+
+Hide Answer
+Lazy loading in Angular is a technique that helps you improve an app's performance and speed. This approach involves loading necessary components or modules rather than loading everything upfront.
+
+Lazy loading is useful for larger applications with many modules and components since it allows you to break your application into smaller parts and load them on demand.
+
+22.
+Which technologies and skills do you need to develop a project from scratch?
+
+Hide Answer
+A senior full-stack developer must have the following skills to build a project from scratch.
+
+Frontend technologies: It includes scripting languages like HTML, CSS, JavaScript, and libraries such as Angular, ReactJS, jQuery, etc.
+
+Design skill: A good understanding of UX/UI design is important for a full-stack developer.
+
+Backend programming languages: One needs to be familiar with programming languages, such as C++, C#, Java, Python, Ruby, PHP, etc.
+
+Frameworks: Proficiency in frameworks, such as Spring Boot, Django, Ruby on Rails, etc., is essential.
+
+Database technologies: A full-stack developer must be skilled in Database Management Systems (DBMS) like MySQL, Oracle, SQLite, MongoDB, etc.
+
+Server: Sound knowledge of servers like Apache or NGINX comes in handy in administering servers.
+
+23.
+What is the extract function in PHP?
+
+Hide Answer
+The extract function is an inbuilt function in PHP. It is used to import variables into the local table from an array. The symbol table is a data structure that contains all available variables and their values.
+
+It helps to access array values as individual variables instead of accessing them using the array syntax. However, we should use the extract function carefully, as it can lead to naming conflicts if used incorrectly.
+
+24.
+How do we use the alt attribute on images?
+
+Hide Answer
+We use the "alt" attribute on images to provide alternative information for an image in case the user can't see the image for some reason, such as a poor internet connection or an error in the src attribute. The alt text should describe the image for users to understand the context of the image.
+
+25.
+Distinguish between Hashtable and HashMap.
+
+Hide Answer
+hashmap vs hashtable.webp
+
+26.
+What is a Java Applet?
+
+Hide Answer
+A Java applet is a small, executable program designed to be run in a web browser. We use applets to make the website and web applications more dynamic and interactive. Applets can be embedded into HTML pages using the APPLET or OBJECT tag and are executed in the Java Virtual Machine (JVM) installed on the user's computer.
+
+27.
+What is "Scope" in AngularJS?
+
+Hide Answer
+The scope in AngularJS is an object that binds the view (HTML) and the controller (JavaScript) together. It is a JavaScript object that contains application data and methods related to a specific part of the application. It acts as a context for evaluating expressions and enables the component to communicate with the rest of the application.
+
+28.
+What is V8?
+
+Hide Answer
+V8 is an open-source JavaScript engine developed by Google and based on C++. It implements the JavaScript language according to the ECMAScript specification and provides a runtime environment for executing JavaScript code. V8 engine is used in various applications, including the Google Chrome web browser and the Node.js runtime environment.
+
+The most important feature of V8 is it is independent of the browser in which it runs. It enabled Node.Js developers to choose the V8 engine to execute JavaScript code on the server side, which led to the popularity of Node.Js.
+
+29.
+What is WebP?
+
+Hide Answer
+WebP is a modern image format developed by Google. It uses lossy and lossless compression techniques to provide smaller images for websites while maintaining a high-quality visual experience.
+
+It significantly decreases the page loading time and improves user experience. WebP images are about 25-34% smaller than PNG or JPEG images.
+
+30.
+What is "State" in React?
+
+Hide Answer
+The "State" is a built-in React object that stores values that can change over time in response to user actions or other events. We can use it to store and manage dynamic values that affect the behavior of a component.
+
+31.
+What is jQuery, and what are its features?
+
+Hide Answer
+jQuery is a lightweight and fast JavaScript library created to simplify using JavaScript for web development. It allows us to save a lot of time by reducing the code.
+
+It has the following features:
+
+HTML/DOM manipulation
+Cross-Browser Compatibility
+CSS manipulation
+HTML event methods,
+Effects and animations
+AJAX Support
+Plugins
+32.
+What is namespace in C#?
+
+Hide Answer
+Namespace is a keyword used to declare a scope that holds a set of related classes and types and provides a way to organize code into logical groups. It also gives unique class names, allowing you to assign the same class name in different namespaces.
+
+33.
+What is hoisting in JavaScript?
+
+Hide Answer
+Hoisting is a JavaScript feature to move the declarations of a variable, function, or class at the top of their scope before code execution. It allows us to use a variable or function even before declaring it. However, we should remember that this JavaScript feature applies to declarations only and not initializations.
+
+34.
+What is backtracking, and why do we use it?
+
+Hide Answer
+Backtracking is an algorithmic strategy for solving problems. It uses recursive calling to find a solution by increasing values with time. Backtracking is also considered an upgrade to the brute force approach. We can write algorithms using this technique.
+
+We apply a backtracking algorithm for some specific problem types.
+
+Decision problem: We use this type to find a feasible solution to the problem.
+
+Optimization problem: We use this to find the best solution for a problem.
+
+Enumeration problem: We try to find all feasible solutions to the problem.
+
+35.
+What is double brace initialization, and what are its advantages?
+
+Hide Answer
+Double Brace initialization is a way of initializing an anonymous inner class in Java. The first braces create an anonymous inner class, whereas the second braces act as instance initializers.
+
+Advantages of Double Brace Initialization
+
+This process requires fewer lines of code than other initialization methods
+The code is more readable
+We can create and initialize code in the same expression
+36.
+What is the difference between the “SendRedirect” and the “Forward” method in Java?
+
+Hide Answer
+sendredirect vs forward.webp
+
+37.
+What is a JavaScript Promise, and what are its different states?
+
+Hide Answer
+A JavaScript promise is an object that represents the eventual completion (or failure) of an asynchronous operation. Promises make managing multiple async operations easier and handling errors better than callbacks or events. A Promise object can be in three states: pending, fulfilled, or rejected.
+
+Pending: Initial state, neither completed nor rejected
+Fulfilled: The operation is completed successfully
+Rejected: The operation has failed
+38.
+What is a Request Dispatcher?
+
+Hide Answer
+A Request Dispatcher is an interface in Java Servlets used to forward a client request to a resource or include the output of another resource in the response. It helps to divide a web application into small modular components, making it easier to maintain.
+
+39.
+What are the applications of Python?
+
+Hide Answer
+Python is a general-purpose language with a wide range of applications. It has many frameworks and libraries that allow us to develop a wide range of applications. Here are some of the major applications of Python.
+
+Python is a general-purpose language with a wide range of applications. It has many frameworks and libraries that allow us to develop a wide range of applications. Here are some of the major applications of Python.
+
+Web development (Django, Flask, Pyramid)
+Data analysis and numeric computing (NumPy, Pandas, SciPy)
+Machine Learning and Artificial Intelligence (TensorFlow, Keras, PyTorch, and SciPy)
+Network programming (Scapy and Twisted)
+Automation and system administration (Ansible, Fabric)
+Game development (Pygame)
+Graphical user interface applications (PyQt, wxPython)
+40.
+What are the differences between static and volatile variables in Java?
+
+Hide Answer
+static vs volatile variables.webp
+
+41.
+What is the difference between MVC (Model View Controller) and MVP (Model View Presenter)?
+
+Hide Answer
+The MVC pattern suggests splitting the code into three components. When developers create a class or file, they should categorize it into one of the three layers: Model, View, and Controller. On the other hand, the MVP pattern is an advanced iteration of software architecture. It is composed of three components: Model, View, and Presenter.
+
+In the MVC pattern, the controller falls between the view and model layers, but in the case of the MVP pattern, an interface works as a communicator between View-Presenter and Presenter-Model.
+
+The support for unit testing is limited in the MVC pattern, whereas unit testing is highly supported in the MVP pattern.
+
+42.
+What do you mean by MEAN Stack?
+
+Hide Answer
+MEAN is a new tech stack that stands for MongoDB, Express.JS, Angular.JS, and Node.Js. It is a JavaScript-based stack used to develop cloud-ready applications. It is a complete solution for building the front and back end of dynamic websites and applications using one technology stack. This stack has gained popularity because it is very user-friendly and open-source.
+
+Looking for remote developer job at US companies?
+Work at Fortune 500 companies and fast-scaling startups from the comfort of your home
+
+Apply Now
+Intermediate senior full-stack developer interview questions and answers
+1.
+What is an application server, and how does it work?
+
+Hide Answer
+An application server is a specialized software that provides a runtime environment and middleware for running enterprise-level applications. It handles the communication between the user interface, application logic, and data storage layers of an application.It provides the business logic behind any application.
+
+When a client first makes a request, it goes to the web server, which sends it to the application server. The application server requests the information from the database server and sends it back to the web server. The web server sends the information to the client.
+
+2.
+How do you optimize SQL queries?
+
+Hide Answer
+Optimizing SQL queries means identifying the most effective techniques to enhance SQL query performance. Here are the most effective ways to optimize queries.
+
+Indexing: It helps in accessing the database quickly to find the relevant data.
+
+Use SELECT query instead of SELECT*: Use SELECT query to specify the columns you need instead of SELECT* to avoid unnecessary I/O operations that slow down the query.
+
+Avoid too many JOINs: Use the appropriate JOIN type for your SQL query to ensure you get the desired results and minimize unnecessary processing.
+
+Use subqueries: Using a subquery instead of a JOIN can be more efficient sometimes. If you only need to retrieve data from one table based on data in another, using a subquery can be faster than using a JOIN.
+
+Use table aliases: Table aliases can make your query easier to read and write. Use aliases for tables and columns to make your query more readable.
+
+Optimize database design: Optimize database design by avoiding redundant data and using appropriate data types. A well-designed database can help you improve query performance.
+
+Use Wildcards: Using wildcards helps you search the database for matching results.
+
+3.
+How do you handle browser compatibility issues?
+
+Hide Answer
+Browsers like Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, etc., may interpret web code differently. As a result, a web page or application that looks and functions correctly in one browser may not work the same way in another. Here are a few tips to handle browser compatibility issues.
+
+Use a CSS Reset: Different browsers have different design layouts, which can cause layout inconsistencies. A CSS reset can help by setting a common baseline for all browsers.
+
+Use cross-browser frameworks and libraries: Cross-browser frameworks and libraries such as jQuery, React, or Angular can help developers avoid browser-specific code and provide a consistent interface across different browsers.
+
+Test on multiple browsers and devices: Developers should test their websites or applications on multiple browsers, including popular ones such as Chrome, Firefox, Safari, and Edge, to check compatibility.
+
+Use polyfills and shims: Polyfills and shims are code snippets that provide fallback functionality for web features not supported by some browsers. You can use libraries like Modernizr, Polyfill. io, or HTML5 Shiv to help fill in gaps in browser support.
+
+4.
+What is the difference between abstract and interface?
+
+Hide Answer
+An abstract class can have abstract and non-abstract methods, but an interface can only have abstract methods.
+Variables declared in an abstract class may contain non-static and non-final variables, whereas those declared in a Java interface are only static and final.
+An abstract class can provide an implementation of an interface. On the other hand, an Interface can’t implement an abstract class.
+A Java abstract class can have public, private, and protected members, but an interface only has public members.
+An abstract class can be extended using the "extends" keyword. An interface can be implemented using the "implements" keyword.
+5.
+Why and how do you clear floats in CSS?
+
+Hide Answer
+Using floats in CSS allows you to position elements (typically images) such that surrounding content can flow around them. However, when using floats, it may cause subsequent elements to flow around floated items, leading to undesired layout issues. Clearing floats is necessary to prevent such issues and ensure proper control of the layout.
+
+There are multiple methods to clear floats in CSS. Some common techniques include:
+
+Clear attribute: Use the clear CSS property, with the values left, right, both, or none, on the elements that follow the floated elements:
+.element-to-clear {
+
+clear: both;
+
+}
+
+Clearfix (the most common method): Apply the "clearfix" technique using a pseudo-element, which involves creating an invisible element to clear the floats. This method helps avoid adding extra markup to your HTML:
+.group::after {
+
+content: "";
+
+display: table;
+
+clear: both;
+
+}
+
+6.
+What are the main differences between process and thread?
+
+Hide Answer
+process vs thread.webp
+
+7.
+How do you share code between files in JavaScript?
+
+Hide Answer
+JavaScript allows us to share code between files by ‘imports’ and ‘exports’. We can share code written in one file with another using ‘require’ and ‘module. exports’ statements in ES5 syntax, whereas we can use ‘import’ and ‘export’ statements in ES6 syntax.
+
+8.
+What is the difference between Host objects and Native objects?
+
+Hide Answer
+Native objects are pre-defined objects provided by JavaScript. These objects are available to all users globally, irrespective of the machine and environment.
+
+On the other hand, host objects are environment-specific JavaScript objects, varying according to the machine environment we use.
+
+9.
+What is the best way to remove array duplicates in ES6?
+
+Hide Answer
+Using a set is the best way to remove duplicates from an array in ES6 because it only allows you to store unique values. When you convert the array to a set, it will remove any duplicate values. Then you need to convert the set back to an array with unique values.
+
+10.
+What is “Strict Mode,” and how to use it in JavaScript?
+
+Hide Answer
+Strict mode is a feature in JavaScript that allows us to execute the code in a restricted environment. It helps detect errors in the code that would normally get executed without any errors. We can enable strict mode by adding "use strict" at the top of the file or in the required function.
+Example:
+
+strictmode JS.webp
+
+The string “use strict” at the top of the file tells the JavaScript interpreter to run the code in strict mode, which enforces stricter syntax and error handling rules. Next, we define a function called myFunction() that multiplies an undeclared variable x by 2 and returns the result. In non-strict mode, this would execute without any issues, but in strict mode, an error will be thrown because x is not declared.
+
+11.
+How does database indexing work?
+
+Hide Answer
+Database indexing is like indexing in a book. Just like an index in a book helps us find a particular chapter or information quickly, a database index helps locate the data quickly. It reduces the number of rows or columns to be checked and quickly finds the information you are looking for when a query with a “where” clause is executed. That's how database indexing works.
+
+12.
+What are filters in Vue.js?
+
+Hide Answer
+A filter is a JavaScript function that allows you to apply common text formatting to dynamic data. It doesn't change the data directly but only changes the output to a browser. It takes through value, manipulates it, and displays the processed values.
+
+Filters are applied using the "pipe character (|) followed by the filter name. We can apply filters in two ways: local and global. Local filters can be used inside the component in which they are defined, whereas global filters can be used in any component.
+
+13.
+Why is "this" operator inconsistent in JavaScript?
+
+Hide Answer
+The "this" operator in JavaScript can be inconsistent because it can have different values based on where it is used. Its value is determined by how the function used is called rather than where it is declared. The value of "this" can also be changed using the call, apply, or bind functions making it difficult to predict the value of "this" in a given situation, which creates inconsistencies.
+
+14.
+What is Data Structure, and what are the different types?
+
+Hide Answer
+A data structure is a way of organizing and storing data (facts and figures) in a specialized format to retrieve it quickly and efficiently. Basically, there are two types of data structures:
+
+Linear data structure:
+
+Array: A linear collection of elements of the same type.
+Stack: Elements are stored in the LIFO (a last-in, first-out) principle.
+Queue: A queue data structure is based on the FIFO (a first-in, first-out) principle.
+Linked list: It is a collection of elements, wherein each contains a reference to the next element.
+Non-linear data structure:
+
+Graph: A data structure that consists of vertices (nodes) and edges (links) that connects the vertices
+Trees: A hierarchical data structure wherein each node has two child nodes
+15.
+What is the purpose of the 'main' element in HTML?
+
+Hide Answer
+The 'main' element in HTML represents the core content of a document. The content within the tag should be unique and not repeated across documents, such as sidebars, navigation links, search forms, etc. The element must be used only once in the HTML file. It requires a closing tag at the end of the content.
+
+16.
+What are semantic HTML tags, and why should you use them?
+
+Hide Answer
+Semantic HTML or semantic markup is the HTML that introduces the meaning to the webpage instead of just the presentation. For example, HTML elements such as header, footer, nav, main, article, p time, etc., are used to define the different sections and content on the page.
+
+There are several reasons for using semantic HTML:
+
+It helps search engines determine the importance and context of web pages.
+Semantic HTML makes it easier to maintain a website as the code is easier to understand.
+The pages built with semantic elements are more user-friendly and easier to read.
+Semantic HTML is important for search engine optimization (SEO).
+17.
+What is Pascal String?
+
+Hide Answer
+A Pascal string is a data structure used to represent and manipulate text strings in some programming languages such as Pascal. In the context of full-stack development, it might not be as prominent as some other string representation methods, but it can still be encountered or used in certain situations.
+
+Common types of Pascal strings are
+
+Character arrays: These are numbers, letters, special characters, etc., enclosed in a single quote.
+
+String variables: The variable of string type is declared inside the var block in Turbo Pascal.
+
+Short strings: We use this string type when the total capacity remains constant.
+
+Null terminated strings: This string type has the same structural layout as a C string.
+
+AnsiStrings: This string type does not have any length limit.
+
+18.
+What is the difference between Map and WeakMap?
+
+Hide Answer
+A map accepts any type of value like string, boolean, number, etc., whereas a WeakMap only accepts only objects as keys.
+Maps are iterable, but WeakMaps are not.
+A “Map” has a size property, but a “WeakMap” does not have the same.
+The garbage collector doesn’t remove any key pointer from "Map," but it removes the key pointer from "WeakMap".
+19.
+What is the main difference between a web server and an application server?
+
+Hide Answer
+A web server is designed to handle HTTP requests and is used to serve static content such as HTML pages, images, and other files to web browsers, whereas an application server is designed to handle dynamic content and is used to serve business logic and application functionality to clients
+A web server is usually deployed in front of an application server to handle incoming web requests and serve static content, while the application server is responsible for processing dynamic requests and running business logic.
+Web servers provide a runtime environment for websites and web applications, whereas application servers provide a runtime environment for enterprise applications.
+Web servers don't support multi-threading, but the application server supports it.
+20.
+What is the difference between JDBC and Hibernate?
+
+Hide Answer
+JDBC and Hibernate are Java technologies used for managing relational databases. Both technologies have some similarities, but they are not the same. Here is the difference between JDBC and Hibernate.
+
+jdbc vs hibernate.webp
+
+21.
+How does DevOps work?
+
+Hide Answer
+DevOps is a technique that aims to build coordination to streamline software development and IT operations. It enables teams to work together to deliver software products faster and ensure better quality. The primary goal of DevOps is to increase efficiency and reduce errors.
+
+Under a DevOps model, the development and operations teams are no longer "siloed." Sometimes, the two teams are merged into a single team. The DevOps engineers work across the complete application lifecycle - from development and testing to deployment and operations. These engineers have multidisciplinary skills.
+
+22.
+What is the main difference between Promises and async/await in JavaScript?
+
+Hide Answer
+Promises provide an interface for dealing with asynchronous operations, allowing chaining of .then() and .catch() methods. Async/await is a syntactic sugar built on top of Promises that makes asynchronous code look more like synchronous code, using async functions and the await keyword.
+
+23.
+Talk about multi-threading.
+
+Hide Answer
+A thread is defined as the single, sequential flow of the control within a program. It is not the program itself and cannot run on its own. In a running program, a thread may have to dig some of its resources.
+
+For example, the execution stack and program counter must belong to that thread. The code in a given thread is useful only for that particular context. A single thread has a single point of execution, i.e., only one user can manage one request at a time.
+
+Multi-threading is a process that is used to improve CPU performance. Through this process, multiple users can manage the program at the same time, or the same user can manage several requests simultaneously. Multi-threading is achieved by executing several processes that the operating system supports.
+
+For example, a web browser has multi-threads running simultaneously - while you scroll through a page, you can simultaneously download an application or a document, listen to music, take a print in the background, and more.
+
+24.
+What are the most popular methods of session management in servlet?
+
+Hide Answer
+There are three main methods of session management in servlet:
+
+URL Rewriting: It is a session management method in which a unique session ID is added to every URL. When the browser requests a new page, the session ID is sent back to the server. It allows the server to associate the request with a specific session.
+
+HttpSession: It is a built-in interface in Servlet used to store session data on the server side.
+
+Cookies: Cookies are data sent by a servlet to a client's browser. The browser saves cookies and sends them back to the server in subsequent requests.
+
+25.
+Explain the difference between synchronous and asynchronous programming.
+
+Hide Answer
+In synchronous programming, the program execution happens in a sequential and blocking manner. This means the code lines are executed one after the other, and the program has to wait for the current operation to finish before moving on to the next one.
+
+On the other hand, asynchronous programming refers to a programming model where the program execution happens in a non-blocking and parallel manner. In this model, multiple tasks can run simultaneously, and the execution of one task does not depend on another.
+
+26.
+What is the difference between Fail-Fast and Fail-Safe iterators?
+
+Hide Answer
+failfast vs failsafe iterator.webp
+
+27.
+What are the advantages of pair programming?
+
+Hide Answer
+Pair programming helps teams to collaborate and share knowledge among the members. As two developers work together to complete the task, it ensures better code quality. It also helps in detecting bugs easily and identifying the scopes for improvement. Besides that, pair programming promotes better communication between team members and builds a positive work environment.
+
+28.
+What is the event loop in JavaScript?
+
+Hide Answer
+The event loop is a fundamental part of the JavaScript runtime environment. An event loop in JavaScript is a mechanism that executes tasks in a non-blocking manner. It continuously checks the message queue for new events to process and runs the corresponding event handlers.
+
+It manages the execution of tasks and events, allowing the runtime to handle asynchronous operations such as network requests and file I/O without blocking the execution of other tasks.
+
+Example:
+
+eventloop JS.webp
+
+29.
+How will you prevent a bot from scraping a public API?
+
+Hide Answer
+It's impossible to completely prevent data scraping if the data within the API is publicly accessible. However, throttling is an effective way to deter bots from scraping a public API. It can prevent a device from making a certain number of requests within a specific time.
+
+Moreover, an HTTP error should be thrown on exceeding a defined number of requests. Apart from this, a good bot detection solution can identify visitors' behavior and automatically block malicious bots that show signs of web scraping.
+
+30.
+Talk about connection leaks in Java and how they can be fixed.
+
+Hide Answer
+In Java, a connection leak refers to a situation where a database connection is not properly closed after it has been used, resulting in the connection being unavailable for reuse by other parts of the application or by other applications. This can lead to a gradual depletion of available connections and eventually cause the application to fail due to a lack of resources.
+
+To fix a connection leak in Java, you must always close database connections explicitly after use, preferably in a final block, to ensure that the connection is closed regardless of whether an exception occurs or not.
+
+31.
+How do you create a callback in JavaScript?
+
+Hide Answer
+JavaScript callback functions can be used synchronously and asynchronously. Callback functions are required because many actions are asynchronous, so they don't block a program or function from running until it is completed.
+
+To create a callback function in JavaScript, we need to pass it as a parameter to another function and call it back when the task is completed.
+
+Example:
+
+callback in JS.webp
+
+32.
+What steps will you take to reduce a web application's load time?
+
+Hide Answer
+The following are the most common ways to reduce the load time of web applications:
+
+Compress and optimize the images on your web application.
+Keep your Javascript and CSS code in separate files outside the main HTML document.
+Reduce the file size of JavaScript and style sheets.
+Reduce the number of HTTP requests a web page needs to make.
+Place script references at the bottom of your HTML page.
+Reduce the number of 301 redirects.
+Enable browser caching to avoid reloading every time a user visits the page.
+33.
+What is the Zip() function in Python?
+
+Hide Answer
+Zip() is an inbuilt function in Python that takes iterable (such as lists, arrays, etc.) as input and returns a single iterator of tuples. Each tuple contains the n-th elements from each of the input iterables. The zip function combines elements from each of the iterables.
+
+For example, if you have two lists [1, 2, 3,...] and [A, B, C,...], the zip function will combine them into a single list [(1, A), (2, B), (3, C),...].
+
+34.
+What is a deadlock in Java, and how to avoid it?
+
+Hide Answer
+Deadlock is a situation in Java when two or more threads are trying to access the same object. It happens only in the case of multi-threading. We can avoid a deadlock situation by using the following ways.
+
+Avoid nested locks: Avoid giving a lock to multiple threads if we have already given it to one.
+
+Use lock timeouts: We can specify a time for a thread to prevent it from waiting indefinitely for a lock.
+
+Avoid Unnecessary Locks: Using locks unnecessarily can lead to a deadlock, and we should avoid it.
+
+Use lock escalation: Lock escalation helps convert multiple locks into fewer ones, reducing the risk of deadlocks.
+
+Looking for remote developer job at US companies?
+Work at Fortune 500 companies and fast-scaling startups from the comfort of your home
+
+Apply Now
+Advanced senior full-stack developer interview questions and answers
+1.
+How would you debounce a function in JavaScript?
+
+Hide Answer
+Debouncing means postponing a function's execution until a certain amount of time passes after the last event that triggered it. Here's one way of creating a debounce function in JavaScript:
+
+debouncing in JS.webp
+
+2.
+How do you handle error handling in a GraphQL server?
+
+Hide Answer
+Error handling in a GraphQL server can be achieved using a custom error format, adding error codes, and wrapping resolver functions with error-catching middleware or higher-order functions. Errors should be properly categorized and returned to the client in a structured format to facilitate error handling on the client-side.
+
+3.
+How would you implement a recursive function to calculate Fibonacci numbers in JavaScript?
+
+Hide Answer
+A recursive function to calculate Fibonacci numbers can be implemented as follows:
+
+fibonacci in JS.webp
+
+Note: This solution is inefficient due to repeated calculations.You need to use dynamic programming for better performance.
+
+4.
+What are JavaScript generators? Can you provide an example?
+
+Hide Answer
+Generators are special functions in JavaScript that allow you to create and traverse through an iterator using the yield keyword. Here's an example:
+
+generators in JS.webp
+
+5.
+In React, explain the process of a component's lifecycle and the associated lifecycle methods.
+
+Hide Answer
+A React component goes through three main phases in its lifecycle: mounting, updating, and unmounting. In each phase, there are associated lifecycle methods. These methods can be used to manage state and side effects in a component's lifecycle:
+
+Mounting: constructor, getDerivedStateFromProps, render, componentDidMount.
+
+Updating: getDerivedStateFromProps, shouldComponentUpdate, render, getSnapshotBeforeUpdate, componentDidUpdate.
+
+Unmounting: componentWillUnmount.
+
+6.
+What is the difference between controlled and uncontrolled components in React?
+
+Hide Answer
+Controlled components have their form input values controlled by the component's state via event handlers, while uncontrolled components rely on the DOM to manage input state. Controlled components are used to ensure input validation, updates, and synchronization with the component's state, while uncontrolled components might be used if the DOM input state management suffices for simple inputs.
+
+7.
+Can you provide a brief example of useMemo and useCallback hooks in React?
+
+Hide Answer
+useMemo returns a memoized value, preventing unnecessary calculations if the inputs don't change. The useCallback memoizes a function to avoid redefining it on each render, which can be helpful when passing callbacks to child components.
+
+Here's an example:
+
+hooks in react.webp
+
+8.
+How would you implement a simple Express.js middleware function to log incoming requests?
+
+Hide Answer
+Here's a simple example of a middleware function in Express.js that logs incoming requests:
+
+middleware function .webp
+
+9.
+How would you implement a simple pub/sub pattern in JavaScript?
+
+Hide Answer
+A simple pub/sub system can be achieved with an event emitter:
+
+pub/sub pattern JS.webp
+
+10.
+In the context of Node.js, what is the purpose of Event objects in modules like http or fs?
+
+Hide Answer
+Event objects are used by Node.js modules to emit events to signal state changes, resource availability, or errors. Event-driven programming using Event objects allows for efficient and highly scalable applications, especially when dealing with I/O-bound workloads.
+
+11.
+Can you provide an example of using the async/await syntax for handling asynchronous file I/O with Node.js?
+
+Hide Answer
+Here's a simple example of reading a file asynchronously using async/await and the fs.promises API:
+
+Image 01-06-23 at 1.50 AM.webp
+
+12.
+How would you implement a cache for a RESTful API in Express.js?
+
+Hide Answer
+A simple caching mechanism can be implemented using middleware and an in-memory JavaScript object, or more efficient caching systems such as Redis. Here's an example with an in-memory cache:
+
+Image 01-06-23 at 1.52 AM.webp
+
+13.
+How can you create a custom Pipe in Angular, and where can it be used?
+
+Hide Answer
+A custom Pipe in Angular can be created by defining a class that implements the PipeTransform interface and adding the @Pipe() decorator. Pipes can be used to transform values in Angular templates within data bindings. Here's an example of a custom "multiply" pipe:
+
+custome pipe in angular.webp
+
+14.
+How do you handle state management in large Vue.js applications?
+
+Hide Answer
+For large Vue.js applications, it is recommended to use Vuex, a centralized state management library. Vuex provides a single source of truth for application state and allows for predictable, atomic state updates via actions, mutations, and getters.
+
+15.
+How would you implement a middleware function in a Koa.js server to measure request processing time?
+
+Hide Answer
+Here's an example Koa.js middleware function to measure request processing time:
+
+Image 01-06-23 at 2.10 PM.webp
+
+16.
+Explain the reactive programming paradigm and its advantages for web development.
+
+Hide Answer
+Reactive programming is a programming paradigm that revolves around using data streams, such as events or changes in variables, and reacting to them. It allows for asynchronous, event-driven programming and can help create efficient and resilient web applications that can react automatically to state changes. Reactive programming can enhance code maintainability, expressiveness, and simplify complex asynchronous scenarios.
+
+17.
+Can you provide a brief example of RxJS observable, including creation and subscription handling?
+
+Hide Answer
+Here's an example of creating and subscribing to an RxJS observable, which emits a new value every second:
+
+Image 01-06-23 at 2.14 PM.webp
+
+18.
+In a Python web application, how can you implement message passing between the server and a WebSocket client?
+
+Hide Answer
+In a Python web application, you can use a library such as Flask-SocketIO or Django Channels to implement WebSocket communication and manage message passing between the server and the WebSocket client. The server and client send and receive messages via the WebSocket using event-based listeners and emitters.
+
+19.
+Can you provide an example of how to use CSS Grid Layout?
+
+Hide Answer
+Here's a simple example of a CSS Grid Layout:
+
+CSS grid layout.webp
+
+20.
+How would you handle optimistic updates in a web application?
+
+Hide Answer
+Optimistic updates involve immediately updating the client-side state and UI to eflect a user action, assuming the server request will be successful. If the server request fails, the previous state is restored, and the user is notified about the error. Here's how to handle optimistic updates in a web application:
+
+Capture the current state before performing an update.
+Update the client-side state and UI immediately.
+Send the update request to the server.
+On server request success, confirm the update and maintain the client-side state.
+On server request failure, restore the previous state and notify the user about the error.
+This approach can be implemented using tools like Redux or Vuex for state management and can improve the perceived performance and responsiveness of the application.
+
+21.
+How would you implement error boundaries in a React application?
+
+Hide Answer
+Error boundaries are a mechanism provided by React to catch and handle errors in the component tree. To implement an error boundary, create a component that implements the componentDidCatch lifecycle method or static getDerivedStateFromError and wrap it around the desired components. Here's an example:
+
+error-boundaries react.webp
+
+22.
+What is request blocking in web performance optimization and how can it be addressed?
+
+Hide Answer
+Request blocking occurs when the browser is forced to wait for a resource (e.g., a script, a stylesheet, or a font) to be fetched and processed before it can continue rendering the DOM or executing subsequent scripts. To address request blocking:
+
+Use async or defer attributes on script tags to allow downloading and execution without blocking rendering.
+Load CSS stylesheets using media attribute or JavaScript to prevent blocking.
+Minimize the use of render-blocking custom web fonts or use the font-display property to control their loading behavior.
+Use efficient resource loading strategies like prioritizing critical resources and lazy-loading non-critical resources.
+23.
+Can you explain the concept of atomic design in modern web design?
+
+Hide Answer
+Atomic design is a methodology for creating design systems by breaking down the user interface into five hierarchical component levels:
+
+Atoms: Basic building blocks, like HTML tags, buttons, inputs, or labels.
+Molecules: Combinations of atoms that form a simple functional unit, such as a search form.
+Organisms: Combinations of molecules and/or atoms to form a more complex, reusable section of the interface, like a header or sidebar.
+Templates: Layouts that combine organisms and other UI elements to form a page structure.
+Pages: Instances of templates filled with actual content to represent the final design.
+This method allows for a systematic, modular, and scalable approach to web design and development.
+
+24.
+How would you implement a performance benchmarking tool for Node.js applications?
+
+Hide Answer
+To implement a performance benchmarking tool for Node.js applications, you can use built-in modules like perf_hooks or third-party libraries like Benchmark.js. These tools help measure the runtime of specific functions or code snippets and provide insights into the performance characteristics of your code.
+
+Here's an example using perf_hooks:
+
+Image 01-06-23 at 2.24 PM.webp

@@ -1,0 +1,64 @@
+General questions
+
+
+Tell me something interesting about yourself.
+What do you like to do outside of work?
+What are you most passionate about?
+What five words would your colleagues use to describe you?
+Do you prefer to work independently or as part of a team?
+What are your greatest strengths?
+What's your greatest weakness?
+What are your professional goals?
+Where do you see yourself in five years?
+What motivates you?
+How do you organize multiple deadlines?
+What can we learn about you that's not listed on your resume?
+Why are you leaving your current role?
+
+
+
+Questions about experience and background
+
+
+
+Describe your favorite project on which you've worked.
+What experience do you have working as a full-stack developer?
+What's the most difficult coding challenge you've experienced?
+How do you proceed when you notice a colleague has made a coding error?
+How do you code when search engine optimization (SEO) is a priority?
+Do you prefer a technical coding role or a managerial position?
+Explain a time you debugged a challenging program.
+How has your experience prepared you for this position?
+In what ways has your education prepared you for this role?
+Do you have any technical certifications?
+What types of projects have you completed?
+How do you manage multiple projects at the same time?
+What coding have you completed outside of work?
+
+
+
+
+In-depth full-stack developer questions
+
+
+What's your favorite coding language? Why?
+Which programming language did you learn first?
+Describe the difference between thread and process.
+How would you optimize an existing website for a new client?
+Explain the steps in continuous integration.
+How would you find a memory leak?
+How comfortable are you with design patterns?
+How would you explain multi-threading?
+What factors are necessary for successful integration?
+Do you prefer AMD or CommonJS? Why?
+What's the difference between REST and GraphQL?
+When would you clear floats in CSS?
+Explain how you'd share code between files.
+What are the advantages of using unit tests?
+Explain how you'd reduce the loading time for a website.
+
+
+
+
+
+
